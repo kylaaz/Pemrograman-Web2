@@ -18,7 +18,7 @@
       <div class="col-lg">
         <h2 class="mb-3">Belanja Online</h2>
 
-        <form action="form-hasil.php" method="GET">
+        <form action="form-hasil.php" method="POST">
           <div class="form-group row">
             <label for="customer" class="col-4 col-form-label">Customer</label>
             <div class="col-8">
